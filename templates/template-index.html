@@ -24,7 +24,7 @@
   $if(abstract)$
   <meta property="og:description" content="$abstract$" />$endif$
   $if(url)$
-  <meta property="og:url" content="url" />$endif$
+  <meta property="og:url" content="$base-url$$url$" />$endif$
   $for(tags)$
   <meta property="og:article:tag" content="$tags$" />
   $endfor$
@@ -52,7 +52,7 @@
 
 <body>
   <nav class="navbar navbar-dark fixed-top bg-dark">
-    <a class="navbar-brand" href="$url$">Students</a>
+    <a class="navbar-brand" href="$base-url$">Students</a>
   </nav>
 
   <div class="container mt-5">
