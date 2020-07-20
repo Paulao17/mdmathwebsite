@@ -6,3 +6,5 @@ Depends on `pandoc` and `texlive`. You might need `texlive-lang-french`.
 
 ## Usage
 Use the shellscripts. Source markdown files in `./src` and resulting built files in `./build`.
+
+Try `sh buildFull.sh '-M base-url:"https://example.com"'`. The First parameter is passed to pandoc, so all builds receive these parameters. Here it sets the url for OpenGraph and the "Students" link.
