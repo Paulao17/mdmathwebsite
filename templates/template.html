@@ -30,7 +30,7 @@
   $if(abstract)$
   <meta property="og:description" content="$abstract$" />$endif$
   $if(url)$
-  <meta property="og:url" content="$url$" />$endif$
+  <meta property="og:url" content="$base-url$$url$" />$endif$
   $for(tags)$
   <meta property="og:article:tag" content="$tags$" />
   $endfor$
