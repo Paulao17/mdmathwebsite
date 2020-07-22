@@ -3,6 +3,7 @@ Generates a static website with pdfs from markdown files containing latex equati
 
 ## Requirements
 Depends on `pandoc` and `texlive`. You might need `texlive-lang-french`.
+To use the webhook you will need Nodejs.
 
 ## Usage
 Use the shellscripts. Source markdown files in `./src` and resulting built files in `./build`.
