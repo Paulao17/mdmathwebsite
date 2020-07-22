@@ -2,7 +2,12 @@
 Generates a static website with pdfs from markdown files containing latex equations. Based on [mdwebsite](https://github.com/Paulao17/mdwebsite). Will include by default French Math Class summaries.
 
 ## Requirements
-Depends on `pandoc` and `texlive`. You might need `texlive-lang-french`.
+Depends on `pandoc` and `texlive`. You might need `texlive-lang-french`, `texlive-latex-extra` and `texlive-latex-extra`.
+```
+sudo apt-get install pandoc texlive texlive-lang-french texlive-latex-extra texlive-latex-extra
+```
+Note: This might be a hefty install.
+
 To use the webhook you will need Nodejs.
 
 ## Usage
