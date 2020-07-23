@@ -21,3 +21,7 @@ Ce site est genere avec l'outil [mdmathwebsite](https://github.com/Paulao17/mdma
 
 ### Continuite et derivation
 [Chapitre entier](TS/continuite-derivation/continuite-derivation.html) [pdf](TS/continuite-derivation/continuite-derivation.pdf)
+
+## BIA (Brevet d'Initition a l'aeronautique)
+
+[Portance](BIA/portance.html) [pdf](BIA/portance.pdf)
