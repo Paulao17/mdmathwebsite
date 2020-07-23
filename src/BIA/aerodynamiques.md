@@ -13,7 +13,11 @@ url: /BIA/aerodynamiques.html
 
 # Forces Aerodynamiques
 - Trainee : $\overrightarrow{R_x}$
+
   Parallele au vecteur air $\overrightarrow{v_air}$
+
 - Portance : $\overrightarrow{R_z}$
+
   Perpendiculaire a $\overrightarrow{R_x}$
+
 - Resultante des forces aerodynamiques : $\overrightarrow{R_a} = \overrightarrow{R_x} + \overrightarrow{R_z}$
