@@ -24,4 +24,4 @@ Ce site est genere avec l'outil [mdmathwebsite](https://github.com/Paulao17/mdma
 
 ## BIA (Brevet d'Initition a l'aeronautique)
 
-[Portance](BIA/portance.html) [pdf](BIA/portance.pdf)
+[Forces Aerodynamiques](BIA/aerodynamiques.html) [pdf](BIA/aerodynamiques.pdf)
