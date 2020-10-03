@@ -11,3 +11,5 @@ tags: [Terminale S, TS, maths, Mathematiques, continuite, derivation, dm]
 url: /TS/DM1/dm1.html
 ---
 # DM 1 : Fonctions, position relative
+
+1.a. On a $$u(x) = 2x^3 -3x^2 -1$$ avec $$D_u = \mathbb{R}$$
