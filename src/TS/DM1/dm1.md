@@ -12,4 +12,6 @@ url: /TS/DM1/dm1.html
 ---
 # DM 1 : Fonctions, position relative
 
-1.a. On a $$u(x) = 2x^3 -3x^2 -1$$ avec $$D_u = \mathbb{R}$$
+1. On a $u(x) = 2x^3 -3x^2 -1$ avec $D_u = \mathbb{R}$
+  a. $u$ est derivable comme somme de fonctions derivables sur $\mathbb{R}$
+     $$u'(x) = 2 \times 3x^2 - 3 \times 2x = 6x^2 -6x = 6x(x-1)$$
