@@ -17,8 +17,9 @@ url: /TS/DM1/dm1.html
      $$u'(x) = 2 \times 3x^2 - 3 \times 2x = 6x^2 -6x = 6x(x-1)$$
 
 2.b. On dresse un tableau de variation de $u$ a l'aide de sa derivee calculee ci-dessus.
+On a $u(0) = 2\times 0^3 - 3\times 0^2 -1 = -1$ et $u(1) = 2\times 1^3 - 3\times 1^2 -1 = -2$
 
 |  x  | -$\infty$| 0 |   | 1 | $+\infty$ |
 |:---:|:-----------:|:-:|:-:|:-:|:------------:|
 |u'(x)|      +      | 0 | - | 0 |      +       |
-|u(x) | -$\infty$ | ye | ye | ye| no|
+|u(x) | -$\infty$ $\nearrow$ | $u(0) = -1$ | $\searrow$ | $u(1) = -2$ | $\nearrow$ +$\infty$|
