@@ -18,7 +18,7 @@ url: /TS/DM1/dm1.html
 
 2.b. On dresse un tableau de variation de $u$ a l'aide de sa derivee calculee ci-dessus.
 
-|  x  | -$\infinity$| 0 |   | 1 | $+\infinity$ |
+|  x  | -$\infty$| 0 |   | 1 | $+\infty$ |
 |:---:|:-----------:|:-:|:-:|:-:|:------------:|
 |u'(x)|      +      | 0 | - | 0 |      +       |
-|u(x) | -$\infinity$ | ye | ye | ye| no|
+|u(x) | -$\infty$ | ye | ye | ye| no|
